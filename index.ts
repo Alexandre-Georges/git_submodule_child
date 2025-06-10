@@ -1,1 +1,1 @@
-export const log = (p1: string) => `${(new Date()).toISOString()}: ${p1};`
+export const log = (p1: string) => `${(new Date()).toISOString()}: ${p1}`;
